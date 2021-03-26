@@ -15,5 +15,7 @@ admin:
 
 
 conference:
-    path: /conference/{id}
+    path: /conference/{slug}
     controller: App\Controller\ConferenceController::show
+
+
