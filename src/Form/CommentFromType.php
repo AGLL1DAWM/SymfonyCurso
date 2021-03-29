@@ -28,3 +28,4 @@ class CommentFromType extends AbstractType
         ]);
     }
 }
+
